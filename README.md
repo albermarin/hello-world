@@ -1,2 +1,5 @@
 # hello-world
-Repository for training
+
+Hi everyone,
+
+This is my new repository!
